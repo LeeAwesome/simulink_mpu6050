@@ -1,0 +1,3 @@
+config load "C:\Users\Li Chong\project\matlab_application\simulink_mpu6050\mpu6050_initialization\mpu6050_initialization.ioc"
+project generate ui
+exit wait

@@ -1,0 +1,6 @@
+[ProjectFiles]
+HeaderPath=C:\Users\Li Chong\project\matlab_application\simulink_mpu6050\mpu6050_initialization\Drivers\CMSIS\Core\Include;C:\Users\Li Chong\project\matlab_application\simulink_mpu6050\mpu6050_initialization\Drivers\CMSIS\DSP\Include;C:\Users\Li Chong\project\matlab_application\simulink_mpu6050\mpu6050_initialization\simulink_mpu6050_model\Inc;C:\Program Files\MATLAB\R2021b\simulink\include;
+[Groups]
+MATLAB=C:\Users\Li Chong\project\matlab_application\simulink_mpu6050\mpu6050_initialization\simulink_mpu6050_model\Src\simulink_mpu6050_model.c;C:\Users\Li Chong\project\matlab_application\simulink_mpu6050\mpu6050_initialization\simulink_mpu6050_model\Src\simulink_mpu6050_model_TIM.c;
+[Others]
+Define=MEM_UNIT_BYTES;ARM_MATH_CM3;MemUnit_T:uint8_T;MATLAB_PROJECT;

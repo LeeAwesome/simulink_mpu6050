@@ -1,0 +1,1 @@
+var modelInfo = {model:"simulink_mpu6050_model"};var modelHierarchy=[{model:"simulink_mpu6050_model",relativePath:"_internal.html",parent:"null"},];
